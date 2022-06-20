@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Testing different request on the user" skipped="0" tests="5" time="22.09" timestamp="2022-06-20T10:49:37.249+01:00[Europe/London]"><testcase name="I get all users from application"/><testcase name="I create user from application"/><testcase name="I update user from application"/><testcase name="I delete user from application"/><testcase name="I verify following data response"><failure message="expected:&lt;R[ev. Nimit Gowda]&gt; but was:&lt;R[anjit Devar]&gt;" type="java.lang.AssertionError">expected:&lt;R[ev. Nimit Gowda]&gt; but was:&lt;R[anjit Devar]&gt;</failure><system-err>expected:&lt;R[ev. Nimit Gowda]&gt; but was:&lt;R[anjit Devar]&gt;&#13;
+in.co.gorest.cucumber.steps.UserStepdefs.iValidateNameOfId(UserStepdefs.java:96)&#13;
+✽.And I validate name "Rev. Nimit Gowda" of Id 2357(user.feature:29)&#13;
+</system-err></testcase></testsuite>

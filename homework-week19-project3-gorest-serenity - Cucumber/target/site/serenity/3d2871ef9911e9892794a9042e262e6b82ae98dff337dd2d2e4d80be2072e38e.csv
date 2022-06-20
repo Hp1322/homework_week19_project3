@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Go rest CURD test with steps","This will create new user","SUCCESS","2022-06-06T23:45:09.248+01:00[Europe/London]","0.0","7.9"
+"Go rest CURD test with steps","Verify if the user was added to the list","SUCCESS","2022-06-06T23:45:17.181+01:00[Europe/London]","0.0","0.84"
+"Go rest CURD test with steps","Update the user information and verify updated information","SUCCESS","2022-06-06T23:45:18.023+01:00[Europe/London]","0.0","1.54"
+"Go rest CURD test with steps","Delete the user and verify if the user is deleted!","SUCCESS","2022-06-06T23:45:19.564+01:00[Europe/London]","0.0","1.57"
